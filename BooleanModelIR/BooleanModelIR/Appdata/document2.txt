@@ -1,1 +1,93 @@
-﻿Hello test add text file
+﻿Nobody Knows How To Learn A Language
+
+The overwhelmingly common result of deliberately trying to learn a new language, especially as an adult, is failure. People take language classes for years, even in childhood, and fail to learn the language they are studying. People buy thick language books and glossy CDs full of promising material and fail to learn the language they are studying. People sign up for websites with promising learning plans and interactive courses and fail to learn the language they are studying. Many people “immerse” themselves in foreign countries in order to learn new languages. But not even that is enough to induce learning for many people, particularly as they get older. Everybody wants to speak new languages, but nobody knows how to learn them.
+
+A bold claim, though it may ring true. After all, there are scores of both language speakers and methods for studying languages. These methods are well-established, well-known, and well-obtainable. They are definitely being used. Untold billions of dollars are spent on language learning every year. It is even true that some number of people do end up, by hook or by crook, speaking new languages. In the broadest, most literal, and most generous sense, it is not true that nobody knows how to learn a language.
+
+But in the sense that ordinary people mean when they say “I want to learn a new language,” it is true. They want to learn a new language — a second language or, colloquially, a foreign language — as a deliberate and conscious choice as an adult. They want to learn it to the point of robust fluency, close to if not indistinguishable from a native speaker, without crippling attrition in ability from anything but the most prolonged disuse. And most importantly, they want and need to learn it in a way that is practical for a capable adult. A way that does not require extraordinary, onerous, or downright heroic costs in terms of time, money, and effort.
+
+Everybody wants to speak new languages, but nobody knows how to deliberately learn them to the point of robust fluency, close to if not indistinguishable from a native speaker, in a way that is practical for a capable adult.
+
+To achieve this is the implicit goal of our entire existing language learning paradigm. If people believed that goal to be impossible, nobody would bother trying to learn a new language. The classrooms and lecture halls would sit empty. The thick books and glossy CDs would remain on the shelves. But people do not believe that. It’s why so many of them try to learn a new language against all odds.
+
+That goal is nevertheless not being achieved. Is it simply an impossible proposition? Maybe. But before we take that for granted, let’s run through the existing methods that we have for learning languages and describe in detail why they do not meet the bar for accomplishing that goal, which — I admit — I am sympathetic to declaring impossible. Learning new languages is not easy.
+
+Institutional Instruction
+Why can’t you learn a new language in a classroom?
+
+In theory, formal language instruction is precisely the right way to learn a new language. Institutions for language learning are well-equipped, well-funded, and established, if not able to boast storied histories of learning and teaching. If you want access to a professional language instructor or native speaker, an institution is the place to be. Institutions teach languages in sequential levels of skill, with entry points for would-be speakers of any level of ability, including none at all. Access to language learning institutions is common and easy enough that we might even call them practical.
+
+Well, there’s a problem. Amelia Friedman writes in The Atlantic:
+
+Less than 1 percent of American adults today are proficient in a foreign language that they studied in a U.S. classroom. That’s noteworthy considering that in 2008 almost all high schools in the country — 93 percent — offered foreign languages, according to a national survey. In many cases, as Richard Brecht, who oversees the University of Maryland’s Center for Advanced Study of Language, said on Thursday: “It isn’t that people don’t think language education important. It’s that they don’t think it’s possible.”
+Wow. Emphasis mine. Less than one percent? This seems notable. We all know the quote about lies, damn lies, and statistics, though. Does this statistic line up with lived experience?
+
+The short answer is yes. The long answer is that, anecdotally, the effectiveness of formal language instruction is questionable. Students spend a lot of time studying languages and taking language tests, but it doesn’t look like all that studying and test-taking are producing the expected number of skilled new language speakers. You have probably formally studied — more likely than not for many years — more languages than you fluently speak. If you reached fluency, you probably lost it later. I spent nearly 15 years in the classroom studying a total of six different languages without becoming fluent. I studied French in elementary school — supposedly the “ideal” age to learn a new language, according to some people — and somehow continued to get As and Bs while retaining almost no ability to speak the language at all.
+
+Nor was my situation in school unique. My friends in class never became fluent. In fact, I don’t know anyone who became fluent in a language they studied in school, with the notable exception of a number of Europeans who studied English their whole lives and speak it fluently, or nearly fluently, as adults. Nor do I think the schools I attended had uncharacteristically poor instruction. I attended a series of fancy private schools and highly functioning public schools in wealthy zip codes, so if anything I shudder to think about how much worse it could have been.
+
+The book Monolingual Americans, written pseudonymously by a former university professor of Spanish in the United States, argues persuasively and extensively that the American educational system, for example, is so dysfunctional that it is possible to spend a lifetime formally learning, say, Spanish, and even become a professor of the language at the university level without speaking the language at all. This also seems notable. It may not at all be paradoxical to say that formal language instruction does not help you learn a new language.
+
+All this is very well, but perhaps these institutions simply do not have sufficient incentive to teach students new languages to the point of robust fluency, or perhaps the students are simply not sufficiently incentivized to learn. Enormous public and private efforts to alter these incentives aside, what about people at institutions that should have stronger inherent incentives to teach new languages to their members and have them become fluent, such as diplomats or spies?
+
+The government, despite access to essentially limitless funding and a clear national security interest, actually seems to have trouble with imbuing its public servants with strong language skills. The CIA’s trouble, for one, is on the record. A pseudonymous former intelligence officer, going by the name Ishmael Jones, describes the situation in The Human Factor:
+
+Although few CIA officers actually speak foreign languages, most have a latent ability — some training, or a childhood language that hasn’t developed. It’s just that foreign languages aren’t necessary for advancement. Only English is needed at headquarters and within American embassies.
+A longer anecdote illustrates:
+
+HQs [read: headquarters] had created language schools for case officers. The schools taught difficult languages like Chinese and Japanese by way of a single teacher who met the class daily in an apartment. Unfortunately, the schools had been around long enough for everyone to realize that even after a two-year course confined in an apartment, the students weren’t learning.
+A linguist colleague suggested the best way to learn a language was to go to the country where it was spoken and actively use it. […] He visited our Japanese school and spoke to the students. “They’re not learning the language,” he said. […]
+HQs loved to assign people to language school. It was an easy and risk-free way to keep them looking busy.
+Jones describes an officer with the ability to learn Spanish in three months while living in Spain as an “uncommonly skilled linguist”, says the CIA “sought foreign-born case officers for their native language abilities”, and notes the Agency’s enthusiasm to hire an officer’s wife, a foreigner with “exotic” language abilities, so that they could claim another language specialist among their ranks.
+
+I have never met any CIA officers — to my knowledge, I suppose — so I cannot independently judge their language skills. But I have met foreign service officers — American diplomats — and did not notice that they were multilingual wizards. In fact, the government seems to have many of the same problems with formal language instruction that the educational system does. This may explain the preference for native speakers in hiring. Hiring native speakers to help you with your language needs is certainly a great strategy. It also, however, signals that even at the highest levels, without the constraints of funding or incentive, institutions do not know how to teach new languages.
+
+Institutional instruction is a dead end when it comes to deliberately learning a new language to the point of robust fluency in a way that is practical for a capable adult.
+
+Commercial Methods
+Why can’t you learn a new language with commercial methods bought and paid for online or offline?
+
+I have used many commercial language learning products or services and tried many more, but for now, there is not much point in analyzing them individually. The most salient point is that despite running the gamut of learning styles and levels, I do not know anyone who chose to learn a new language and succeeded by using commercially available methods, myself included. Nor has anyone discovered a combination of these non-mutually exclusive products that, taken together, lead to our desired result. Much as with institutional instruction, the most common result is a lot of studying, but ultimate failure. Some rare few probably succeed, to their credit, but the overwhelming majority do not.
+
+Knowing languages is an extremely useful skill. If there were someone who knew how to learn new languages, we would all know it. They would be uniquely and unquestionably skilled at producing new language speakers. They would be very visible: everybody would be flocking to their doors and imitating them. For at least a short while, they would have a monopoly on everybody’s attention to language learning methods. Their methods would be the international standard for learning new languages used by individuals, companies, and governments alike. A company with such a method would dominate the market. A lot fewer people would be saying “I want to learn French,” because they would just follow the method and succeed.
+
+We do not see anybody like that. The practice of language learning is highly diffuse. The language learning industry operates under perfect competition.
+
+Commercial methods are a dead end.
+
+Immersion
+Why can’t you learn a new language with “immersion”, in the sense of, say, living in Mexico for six months to learn Spanish?
+
+In short, you can. Necessity is not only the mother of invention, but language fluency as well. You will find no shortage of defenders of immersion as a method for effective language learning, because, for whatever reason, it works. I have met many people who acquired notable language skills due to living in a foreign country, often to their own surprise, and always to a far greater degree than any formal instruction, institutional or commercial, offered.
+
+Unfortunately, immersion is not a perfect method for deliberate learning. For one, it is eminently impracticable. Moving to a foreign country for an extended period of time is onerous. Visiting a foreign country for a short period of time will not induce as much necessity, and therefore presumably learning, as for a long period of time. Repeated short visits are likely to be more costly than one long one.
+
+Immersion is not foolproof either. There are plenty of people who spend years of their lives, if not decades, living in foreign countries with foreign languages, without learning them to fluency, if at all. Whether you’re thinking of kindly immigrant grannies or uncultured Anglophone college students on semesters abroad, it is easy — and looks correct — to blame this lack of learning on the fact that merely living in a foreign country doesn’t necessitate the learning of its language to survive. It is easy enough to get by with some basic knowledge of a language, or none at all, in a globalized technological world. I’ve known expats who even spent large portions of their childhoods abroad without achieving any significant language ability in the local language.
+
+We might also notice one new problem with immersion that formal instruction does not have: immersion does not offer anything more than an implicit model for how to learn a language. Formal instruction offers explicit — albeit evidently faulty — models. It offers a theory of language instruction, a system based on that theory, and routines for progressing through the system, with explanations and arguments for every piece of the system that can be replicated, tested, and, in theory, improved.
+
+Immersion cannot explain or pare down the process of language learning any more than this: the longer you stay immersed, the more likely you are to learn something and eventually become fluent. Without explication, the experiences of the immersed remain non-replicable and therefore not improvable by others. If an immersed person were to explicate their experiences long enough, they would end up with an explicit model of language learning that could be replicated and formally taught — in which case it would no longer be learning via immersion. Immersion is a useful tactic, but not a perfect strategy.
+
+Immersion is a dead end.
+
+Your First Language
+Given all of these non-functioning methods, why not build your own? For example, why not take the experience of learning your first language and apply it to learning a second one? Everybody, after all, speaks at least one language that is at least somewhat difficult for non-native speakers to learn. Why might learning a new language not just be a repetition of whatever you did when you learned your first language?
+
+The problem is you don’t really know how you learned your first language. You don’t know what exactly you’d be trying to repeat. You cannot even remember your first successes at learning your first language, although your parents might (and mine do). Motherly love notwithstanding, their attention was unlikely to have included IPA transcriptions of baby gurgles, with dates and recordings to match. You do not have an explicit model of how you learned your first language, let alone a model that is correct and generalizable to other languages. If you are a native English speaker, you are likely to not even have a basic technical understanding of your own language. Case in point: did you catch the split infinitive in the previous sentence?
+
+If you don’t have a way to correctly explain how you learned your first language, you won’t be able to learn from the experience and generalize it to new languages. Your best bet would be to study other small children learning their first languages, which is coincidentally what the academic field of childhood language acquisition is all about.
+
+All that said, there is one obvious model that could be quickly adapted from your knowledge of learning your first language: learn a new language like a baby! Start learning by babbling single syllables and eventually move on to whole words and sentences. Culminate in advanced classroom instruction. The problem is that, taken as a literal model, this will take you 18+ years. This is not a practical way to learn a new language. Nobody wants to commit 18 years to doing that.
+
+If you like the idea of learning a new language like a baby, but think that taking it literally is obtuse (it is), you will have to figure out what you are going to change about your model, method, and plan, and why. In other words, back to square one: how do you learn a new language?
+
+Your first language is a dead end.
+
+Do-It-Yourself Models
+We might now issue a preliminary verdict: it is impossible to learn a new language to the point of robust fluency in a way that is practical for a capable adult. Institutional instruction, commercial methods, immersion, and even your own first language will not lead you to the promised land. We are doomed to wander for years in the barren desert of trial-and-error, hopping between methods, and motivating ourselves heroically against all logic and reason. But this is only true with one caveat — for now.
+
+Equipped with the narrower definition of what it means to learn a new language, we can define the problem even more technically: nobody has a correct explicit model — a model that is replicable and improvable — for how to learn a new language. There are non-functioning explicit models and relatively-functioning implicit models, but no well-functioning explicit models.
+
+We can choose to figure out the correct explicit model and build a new method for learning a new language — a do-it-yourself project, if you will. If we were to develop an explicit model for how to learn a new language, one that is replicable and improvable, and then tried to improve it, we would get closer to figuring out how to learn a new language. We might even eventually succeed. Luckily, we can even scrap existing methods for parts. God knows there’s plenty of material lying around to salvage. But, one way or another, we’re going to have to go DIY.
+
+Nobody knows how to learn a language. But we might be able to figure out how. The next step awaits.

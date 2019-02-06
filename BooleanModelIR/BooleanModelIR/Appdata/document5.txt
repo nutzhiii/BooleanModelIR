@@ -1,1 +1,36 @@
-﻿Hello test add text file
+﻿How To Teach A Cyborg
+
+Imagine a classroom in the not-too-distant future. Textbooks, slideshows, and notes all interface neatly with devices that once called “phones” and “laptops” — but now those learning materials proliferate through desks, walls, clothes, jewelry, glasses, and maybe even tattooes or contact lenses. The teacher, trained to teach in the 2010s, wants to say, “close your laptops and put away your phones.” But when the phone is embedded in a fingernail, what can a teacher do?
+
+Roughly the same argument about laptops in the classroom has been circulating for at least the last five years. The argument against laptops in the classroom goes something like this: First, laptops distract people; second, and more critical, some studies in controlled, non-classroom environments reveal that typical students master content better when they handwrite notes compared to when they type.
+
+The finding, as epitomized by this widely reported study, is that a typical student can type faster than she writes by hand, so she takes verbatim notes. But just typing down everything a speaker says, for the typical student, isn’t the best way to learn. It’s better, according to this study, to think about what one hears and to use notes to summarize. Because most people can’t handwrite everything they are hearing, using a pen or pencil forces summarization. Notice that this argument isn’t actually about laptops versus pens, but about styles of note-taking. Still, the result is academics taking to mass media to report that they are banning laptops in their classroom for the good of the students.
+
+The latest version of such an argument appeared in a New York Times article. “The research is unequivocal,” the author says, that laptops are distracting for both users and those around them. The arguments in the piece follow a predictable pattern that have already been featured in, among others, columns and op-eds from NPR, The Washington Post, Inside Higher Ed, and The Chronicle of Higher Education.
+
+There are reasons to be skeptical of these pieces. Disabled students often need tech to communicate, take notes, and otherwise access course materials; as a dyslexic man who has trouble forming letters by hand, I learned best when I had access to technology.
+
+The issues faced by the disability community, moreover, raise broader questions about the future of human-technology interactions as they apply in the classroom. If the disability-rights argument in favor of classroom technology hasn’t persuaded everyone, perhaps the bigger picture will.
+
+This is the last generation, pending an apocalypse, in which it’s possible to imagine separating students from their tech. It’s a moment to begin seriously thinking about the pedagogy of teaching a cyborg.
+
+
+Science-fiction authors have been thinking about the broader societal implications of embedded tech for decades.
+
+William Gibson’s cyberpunk Neuromancer trilogy, for example, takes place in a world where people might easily be able to access all the information in the universe through their brains. In such a world, teachers could, at last, stop worrying so much about memorizing and closed-book tests.
+
+Neal Stephenson’s book The Diamond Age tells the story of Nell, an impoverished child, who accidentally ends up with access to a fully immersive virtual-reality education program. When she logs in, a collection of artificial intelligences and actors train her to become a kind of revolutionary leader.
+
+In C.S. Friedman’s This Alien Shore, every child is granted “brainware” when she is born, so that access to knowledge is reasonably equitably distributed. These and countless other stories envision futuristic worlds in which banning laptops just isn’t going to be feasible. So what would teaching look like in those worlds?
+
+Back in reality, technologists are largely focused on the Internet of Things in which all the objects with which people interact on a daily basis — Google Glass and Apple Watch, for example — are gradually becoming computers, robots, and phones. The technologist Bruce Schneier calls it a “world-size robot.” The upshot? Quotidian objects that are actually computers will soon enter classrooms. It’s still fairly easy to spot students using their cell phones in class — but when the smart pen or smart textbook sends messages directly to the contact lenses of students, teachers aren’t likely to even notice.
+
+If the simple banning of devices from classrooms isn’t possible, then what? One option is to assert rigorous control over all information flow — a practice that could be described as panopticon pedagogy. As the education writer Audrey Watters has shown, ed-tech companies are all-in on surveillance, eagerly promoting models that capture every website, click, and time spent working. But students would inevitably find workarounds — using cellphone hotspots, for instance. More critically, controlling data use in class runs counter to optimal pedagogy.
+
+In this era of easy access to an unfathomable amount of data, teachers must train their students to wrestle that information into utility, to sort and analyze, query, and then produce well-reasoned analysis and arguments. It will be impossible to achieve these goals by routinely demanding students shut down all their systems and listen to a teacher speak, isolated from the broader networks. Teachers can help kids learn how to fight distraction by modeling informed exposition (i.e., lectures); teaching note-taking; and building norms based on choice, mutual respect, and good communication. That’s not an easy task, which is why it’s important to instill these values in children from a young age, throughout the whole edifice of education.
+
+I use the word “cyborg” deliberately. Alice Wong, who founded the Disability Visibility Project, travels around the world (even to White House parties) via remote-controlled robot. “We’re all cyborgs,” she has frequently told me, pointing to the many ways in which people of all different types of abilities intersect with technology. When people try to limit access to tech, she argues, they’re really cutting off part of themselves.
+
+Danah Boyd, a technologist at Microsoft, wrote in 2009 about missing her “cyborg life” whenever she’s cut off from the online world, including during classroom-like occasions. “I can’t pay attention in a lecture without looking up relevant content,” she wrote. “And, in my world, every meeting and talk is enhanced through a backchannel of communication.” In her most recent book, It’s Complicated: The Social Lives of Networked Teens, Boyd explored how much more intensely younger generations experience being cut off from information flow.
+
+The “networked world,” she wrote, is here to stay. It’s up to teachers, then, to build networks of learning, solidarity, mutual respect, and even trust.
