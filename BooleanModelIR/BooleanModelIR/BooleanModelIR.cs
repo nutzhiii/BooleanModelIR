@@ -11,6 +11,7 @@ namespace BooleanModelIR
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New One!");
             Console.WriteLine("Hello test");
             Console.ReadKey();
         }
