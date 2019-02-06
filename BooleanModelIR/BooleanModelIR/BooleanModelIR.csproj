@@ -58,6 +58,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Appdata\document1.txt" />
+    <Content Include="Appdata\document2.txt" />
+    <Content Include="Appdata\document3.txt" />
+    <Content Include="Appdata\document4.txt" />
+    <Content Include="Appdata\document5.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
