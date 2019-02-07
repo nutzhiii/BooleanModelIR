@@ -49,19 +49,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BooleanModelIR.cs" />
+    <Compile Include="Controller\BooleanModelIR.cs" />
+    <Compile Include="Controller\QueryInformation.cs" />
+    <Compile Include="Controller\TermDocumentMatrix.cs" />
+    <Compile Include="Models\DocumentModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\TermDocumentMatrixModel.cs" />
+    <Compile Include="Controller\Files.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Appdata\document1.txt" />
-    <Content Include="Appdata\document2.txt" />
-    <Content Include="Appdata\document3.txt" />
-    <Content Include="Appdata\document4.txt" />
-    <Content Include="Appdata\document5.txt" />
+    <Content Include="Appdata\The Cost of Working in Education.txt" />
+    <Content Include="Appdata\Nobody Knows How To Learn A Language.txt" />
+    <Content Include="Appdata\It Time To Fix Testing.txt" />
+    <Content Include="Appdata\Why We Need More Testing Not Less.txt" />
+    <Content Include="Appdata\How To Teach A Cyborg.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
