@@ -10,22 +10,22 @@ namespace BooleanModelIR
     {
         public TermDocumentMatrixModel SettingTermDocumentMatrix(TermDocumentMatrixModel documentMatrix)
         {
-            Dictionary<string, List<DocumentDetail>> tempOfDocumentMatrix = new Dictionary<string, List<DocumentDetail>>();
+            Dictionary<string, Dictionary<string, bool>> tempOfDocumentMatrix = new Dictionary<string, Dictionary<string, bool>>();
             foreach (var item in documentMatrix.IndexTermList)
             {
-                List<DocumentDetail> documentsDetail = new List<DocumentDetail>();
+                Dictionary<string, bool> documentDict = new Dictionary<string, bool>();
                 foreach (var indexdocterm in documentMatrix.DocumentList)
                 {
                     if (indexdocterm.IndexTermDocuments.Contains(item))
                     {
-                        documentsDetail.Add(new DocumentDetail { IsTermInDocument = true, Name = indexdocterm.Name });
+                        documentDict.Add(indexdocterm.Name, true);
                     }
                     else
                     {
-                        documentsDetail.Add(new DocumentDetail { IsTermInDocument = false, Name = indexdocterm.Name });
+                        documentDict.Add(indexdocterm.Name, false);
                     }
                 }
-                tempOfDocumentMatrix.Add(item, documentsDetail);
+                tempOfDocumentMatrix.Add(item, documentDict);
             }
             documentMatrix.TermDocumentMatrixDic = tempOfDocumentMatrix;
             return documentMatrix;

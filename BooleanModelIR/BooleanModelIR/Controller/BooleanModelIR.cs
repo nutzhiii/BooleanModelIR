@@ -13,21 +13,21 @@ namespace BooleanModelIR
             //Query 
             while (true)
             {
-                Console.Write("Enter Your Boolean Query:");
+                Console.Write("enter your boolean query:");
                 string query = Console.ReadLine().ToLower();
                 List<string> result = new QueryInformation().ProcessingQuery(documentMatrix, query);
-                //Display results
+                //display results
                 Console.WriteLine("------------------------------");
-                if (result.Count != 0)
+                if (result.Count > 0)
                 {
                     foreach (var item in result)
                     {
-                        Console.WriteLine("Document Name: {0}", item);
+                        Console.WriteLine("document name: {0}", item);
                     }
                 }
                 else
                 {
-                    Console.WriteLine("*** Not found Result!!! ***");
+                    Console.WriteLine("*** not found result!!! ***");
                 }
                 Console.WriteLine("------------------------------");
             }

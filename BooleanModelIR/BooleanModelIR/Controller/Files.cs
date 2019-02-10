@@ -20,7 +20,6 @@ namespace BooleanModelIR
             {
                 var content = File.ReadAllText(filePath).ToLower();
                 documentList.Add(new DocumentModel { Name = Path.GetFileNameWithoutExtension(filePath), Content = File.ReadAllText(filePath).ToLower(), IndexTermDocuments = FilterIndexTermDocument(content) });
-
             }
             indexTermList = indexTermList.Distinct().ToList();
             return new TermDocumentMatrixModel() { IndexTermList = indexTermList, DocumentList = documentList };
@@ -29,7 +28,7 @@ namespace BooleanModelIR
         {
             var indexTermNotClean = Regex.Replace(content, @"[^\w\s]", string.Empty).Split(new char[] { '\r', '\n', '\t', ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
             List<string> indexTermDocument = indexTermNotClean.Distinct().Where(e => !StopAnalyzer.ENGLISH_STOP_WORDS_SET.Contains(e)).ToList();
-            indexTermList = indexTermList.Concat(indexTermDocument).ToList();
+            indexTermList = indexTermList.Union(indexTermDocument).ToList();
             return indexTermDocument;
         }
     }
