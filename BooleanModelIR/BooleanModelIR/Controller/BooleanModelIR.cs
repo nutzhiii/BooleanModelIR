@@ -46,27 +46,29 @@ namespace BooleanModelIR
 
                 //Display similarity
                 Console.WriteLine("\n\n=[ Similarity ]=\n");
+                Console.Write("\t\t");
 
-                for (int i = 1; i <= 5; i++)
+                for (int i = 0; i < documentMatrix.DocumentList.Count; i++)
                 {
-                    Console.Write("\tDoc " + i + "\t");
+                    Console.Write("\tDoc " + (i+1) + "\t");
                 }
 
-                Console.Write("\n" + query);
+                Console.WriteLine("\n" + query);
+                Console.Write("\t");
 
                 foreach(var item in documentMatrix.DocumentList)
                 {
                     if (result.Contains(item.Name))
                     {
-                        Console.Write("\t1\t");
+                        Console.Write("\t\t1");
                     }
                     else
                     {
-                        Console.Write("\t0\t");
+                        Console.Write("\t\t0");
                     }
                 }
                 
-                Console.WriteLine("\n\n------------------------------");
+                Console.WriteLine("\n\n------------------------------\n");
             }
         }
     }
