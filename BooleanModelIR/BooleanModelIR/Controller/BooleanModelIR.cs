@@ -1,5 +1,4 @@
-﻿using BooleanModelIR.Controller;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -24,9 +23,7 @@ namespace BooleanModelIR
                 List<string> result = new QueryInformation().ProcessingQuery(documentMatrix, query);
 
                 //Display body result
-                new DisplayResult().DisplayBodyResult(documentMatrix, result, query);
-
-                
+                new DisplayResult().DisplayBodyResult(documentMatrix, result, query);   
             }
         }
     }
