@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BooleanModelIR.Controller;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,67 +9,24 @@ namespace BooleanModelIR
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("==[ Boolean Model ]==");
-            Console.WriteLine("\nInformation: We use these 5 articles from Medium.com for demonstrating the Boolean Model");
-            Console.WriteLine("(1) How To Teach A Cyborg");
-            Console.WriteLine("(2) It’s Time To Fix Testing");
-            Console.WriteLine("(3) Nobody Knows How To Learn A Language");
-            Console.WriteLine("(4) The Cost of Working in Education");
-            Console.WriteLine("(5) Why We Need More Testing, Not Less\n");
-            Console.WriteLine("The result will show the retrieved document and similarity of Boolean Model");
-            Console.WriteLine("\n------------------------------\n");
-
             //document detail contain readfile and filter index term document 
             TermDocumentMatrixModel documentMatrix = new Files().ReadFile();
             //setting term document matrix
             documentMatrix = new TermDocumentMatrix().SettingTermDocumentMatrix(documentMatrix);
-            
+            //Display header
+            new DisplayResult().DisplayHead(documentMatrix);
+
             //Query 
             while (true)
             {
                 Console.Write("Enter Boolean Query:");
                 string query = Console.ReadLine().ToLower();
                 List<string> result = new QueryInformation().ProcessingQuery(documentMatrix, query);
+
+                //Display body result
+                new DisplayResult().DisplayBodyResult(documentMatrix, result, query);
+
                 
-                //Display retrieved documents
-                Console.WriteLine("\n\n=[ Retrieved Document ]=");
-                if (result.Count > 0)
-                {
-                    foreach (var item in result)
-                    {
-                        Console.WriteLine("{0}", item);
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("*** Result Not Found ***");
-                }
-
-                //Display similarity
-                Console.WriteLine("\n\n=[ Similarity ]=\n");
-                Console.Write("\t\t");
-
-                for (int i = 0; i < documentMatrix.DocumentList.Count; i++)
-                {
-                    Console.Write("\tDoc " + (i+1) + "\t");
-                }
-
-                Console.WriteLine("\n" + query);
-                Console.Write("\t");
-
-                foreach(var item in documentMatrix.DocumentList)
-                {
-                    if (result.Contains(item.Name))
-                    {
-                        Console.Write("\t\t1");
-                    }
-                    else
-                    {
-                        Console.Write("\t\t0");
-                    }
-                }
-                
-                Console.WriteLine("\n\n------------------------------\n");
             }
         }
     }

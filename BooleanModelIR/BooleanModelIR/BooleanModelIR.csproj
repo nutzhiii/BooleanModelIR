@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\BooleanModelIR.cs" />
+    <Compile Include="Controller\DisplayResult.cs" />
     <Compile Include="Controller\QueryInformation.cs" />
     <Compile Include="Controller\TermDocumentMatrix.cs" />
     <Compile Include="Models\DocumentModel.cs" />
