@@ -1,5 +1,7 @@
-﻿using System;
+﻿using ConsoleTableExt;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,41 +27,56 @@ namespace BooleanModelIR
             Console.WriteLine("\n\n=[ Retrieved Document ]=");
             if (result.Count > 0)
             {
-                foreach (var item in result)
-                {
-                    Console.WriteLine("{0}", item);
-                }
+                ConsoleTableBuilder.From(GetDataTableOfDocumentList(result))
+                    .WithFormat(ConsoleTableBuilderFormat.Alternative).ExportAndWriteLine();
             }
             else
             {
-                Console.WriteLine("*** Result Not Found ***");
+                Console.WriteLine("*** Result Not Found ***\n");
             }
 
             //Display similarity
-            Console.WriteLine("\n\n=[ Similarity ]=\n");
-            Console.Write("\t\t");
+            Console.WriteLine("=[ Similarity ]=");
 
+            ConsoleTableBuilder.From(GetDataTableOfSimilarity(result, documentMatrix, query))
+                .WithFormat(ConsoleTableBuilderFormat.Alternative).ExportAndWriteLine();
+
+            Console.WriteLine("------------------------------");
+        }
+
+        public DataTable GetDataTableOfDocumentList(List<string> documentList)
+        {
+            DataTable table = new DataTable();
+            table.Columns.Add("***** Document List *****", typeof(string));
+
+            foreach (var item in documentList)
+            {
+                table.Rows.Add(item);
+            }
+            return table;
+        }
+
+        public DataTable GetDataTableOfSimilarity(List<string> documentList, TermDocumentMatrixModel documentMatrix, string query)
+        {
+            DataTable table = new DataTable();
+            //column
+            table.Columns.Add("Query", typeof(string));
+            string[] flagdocument = new string[documentMatrix.DocumentList.Count + 1];
+            flagdocument[0] = query;
             for (int i = 0; i < documentMatrix.DocumentList.Count; i++)
             {
-                Console.Write("\tDoc " + (i + 1) + "\t");
-            }
-
-            Console.WriteLine("\n" + query);
-            Console.Write("\t");
-
-            foreach (var item in documentMatrix.DocumentList)
-            {
-                if (result.Contains(item.Name))
+                table.Columns.Add(string.Format("Doc{0}", i + 1), typeof(string));
+                if (documentList.Contains(documentMatrix.DocumentList[i].Name))
                 {
-                    Console.Write("\t\t1");
+                    flagdocument[i + 1] = "1";
                 }
                 else
                 {
-                    Console.Write("\t\t0");
+                    flagdocument[i + 1] = "0";
                 }
             }
-
-            Console.WriteLine("\n\n------------------------------\n");
+            table.Rows.Add(flagdocument);
+            return table;
         }
     }
 }
